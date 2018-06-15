@@ -1,0 +1,10 @@
+{
+  "name": "Data Grabber 9000",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "Right click on graph/table to save data",
+  "permissions": ["contextMenus", "activeTab"],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
